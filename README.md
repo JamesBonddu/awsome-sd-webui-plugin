@@ -1,5 +1,3 @@
-这里是完整的Awesome README模板,包含以表格形式展示的插件列表:
-
 ## Awesome Stable Diffusion WEB UI Plugins
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A curated list of awesome WEB UI plugins for Stable Diffusion
